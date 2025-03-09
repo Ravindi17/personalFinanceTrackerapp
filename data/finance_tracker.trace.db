@@ -1,0 +1,4 @@
+2025-03-08 16:49:20.876954+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM EXPENSE \000d\000a[*]SELECT * FROM INCOME"; SQL statement:
+SELECT * FROM EXPENSE 
+SELECT * FROM INCOME [42000-232]
